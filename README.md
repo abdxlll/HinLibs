@@ -54,11 +54,11 @@ No additional setup or configuration is required.
 ## Demo Login Credentials
 
 ### Patron Accounts
-- nikolai
-- mike
-- oyin
+- ahmed
+- sarah
+- michael
 - abdulrahman
-- mohammad
+- aisha
 
 ### Librarian Account
 - **Username:** lib

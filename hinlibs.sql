@@ -56,11 +56,11 @@ CREATE TABLE policy (
 );
 
 -- Seed Users
-INSERT INTO users VALUES ('U001','nikolai','Patron');
-INSERT INTO users VALUES ('U002','mike','Patron');
-INSERT INTO users VALUES ('U003','oyin','Patron');
+INSERT INTO users VALUES ('U001','ahmed','Patron');
+INSERT INTO users VALUES ('U002','sarah','Patron');
+INSERT INTO users VALUES ('U003','michael','Patron');
 INSERT INTO users VALUES ('U004','abdulrahman','Patron');
-INSERT INTO users VALUES ('U005','mohammad','Patron');
+INSERT INTO users VALUES ('U005','aisha','Patron');
 INSERT INTO users VALUES ('U006','lib','Librarian');
 INSERT INTO users VALUES ('U007','admin','SysAdmin');
 
