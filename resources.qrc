@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>cancel-icon.svg</file>
+        <file>back-icon.svg</file>
+        <file>refrech-icon.svg</file>
+        <file>avatar-icon.svg</file>
+    </qresource>
+</RCC>

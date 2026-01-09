@@ -1,0 +1,21 @@
+# Qt Creator user files
+*.pro.user
+
+# IDE folders
+.idea/
+.vscode/
+
+# Build artifacts
+build/
+build-*/
+
+# Compiled outputs
+*.o
+*.obj
+*.exe
+*.out
+
+# OS junk
+.DS_Store
+Thumbs.db
+
